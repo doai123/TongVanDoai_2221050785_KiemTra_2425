@@ -338,3 +338,4 @@
 /Users/tongvandoai/kiemtra/KiemTra/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
 /Users/tongvandoai/kiemtra/KiemTra/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
 /Users/tongvandoai/kiemtra/KiemTra/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/tongvandoai/kiemtra/KiemTra/obj/Debug/net9.0/KiemTra.sourcelink.json

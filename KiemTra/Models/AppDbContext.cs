@@ -9,6 +9,6 @@ namespace KiemTra.Models
         }
 
         // Thêm các DbSet cho các model của bạn ở đây
-        // Ví dụ: public DbSet<YourModel> YourModels { get; set; }
+        public DbSet<TongVanDoai> TongVanDoais { get; set; }
     }
 } 

@@ -44,6 +44,34 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/tongvandoai/kiemtra/KiemTra/Views/TinhDiem/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGluaERpZW0vQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tongvandoai/kiemtra/KiemTra/Views/TinhDiem/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGluaERpZW0vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tongvandoai/kiemtra/KiemTra/Views/TongVanDoai/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVG9uZ1ZhbkRvYWkvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tongvandoai/kiemtra/KiemTra/Views/TongVanDoai/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVG9uZ1ZhbkRvYWkvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tongvandoai/kiemtra/KiemTra/Views/TongVanDoai/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVG9uZ1ZhbkRvYWkvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tongvandoai/kiemtra/KiemTra/Views/TongVanDoai/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVG9uZ1ZhbkRvYWkvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tongvandoai/kiemtra/KiemTra/Views/TongVanDoai/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVG9uZ1ZhbkRvYWkvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/tongvandoai/kiemtra/KiemTra/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

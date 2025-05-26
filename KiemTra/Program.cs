@@ -1,7 +1,11 @@
 using Microsoft.EntityFrameworkCore;
 using KiemTra.Models;
+using Microsoft.Extensions.DependencyInjection;
+using KiemTra.Data;
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("ApplicationDbContext") ?? throw new InvalidOperationException("Connection string 'ApplicationDbContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
